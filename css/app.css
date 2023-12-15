@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size:30px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.nav-item{
+    font-size: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.nav-item:hover{
+    border-color: black;
+}
+.bg-orange{
+    background-color: rgb(255 94 0);
+}
